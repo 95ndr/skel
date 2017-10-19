@@ -1,0 +1,24 @@
+{
+  "name": "skeleton_template",
+  "authors": [
+    "Michelle <an.darleen@outlook.com>"
+  ],
+  "description": "A minimalistic template",
+  "main": "",
+  "keywords": [
+    "template"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*", 
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "skeleton-css#^2.0.4",
+    "malihu-custom-scrollbar-plugin": "^3.1.5",
+    "components-font-awesome": "^4.7.0"
+  }
+}
